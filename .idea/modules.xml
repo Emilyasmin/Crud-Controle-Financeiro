@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/crud_cadastro_funcionarios.iml" filepath="$PROJECT_DIR$/crud_cadastro_funcionarios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crud_controle_fluxos.iml" filepath="$PROJECT_DIR$/crud_controle_fluxos.iml" />
     </modules>
   </component>
 </project>
