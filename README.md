@@ -6,5 +6,5 @@
 - Instituição - UNIPÊ
 
 ## :pushpin:Crud em funcionamento:
-<img src="./img/Inicial.png" width="300" title="JavaScript"/> &nbsp;
+<img src="./img/Inicial.png" width="300" title="JavaScript"/>&nbsp;&nbsp;
 <img src="./img/SelTodos.png" width="300" title="JavaScript"/> &nbsp;
