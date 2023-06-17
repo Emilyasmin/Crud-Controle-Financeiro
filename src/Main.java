@@ -9,12 +9,12 @@ public class Main {
         String menu = "";
 
         do {
-            menu = JOptionPane.showInputDialog(null,"------ Cadastro de Funcionário ------"
+            menu = JOptionPane.showInputDialog(null,"------ Controle de Gastos ------"
                     + "\nDigite a opção desejada:\n"
-                    + "1) Cadastrar\n"
+                    + "1) Inserir novo\n"
                     + "2) Editar\n"
                     + "3) Excluir\n"
-                    + "4) Visualizar tudo\n"
+                    + "4) Visualizar todos\n"
                     + "5) Visualizar apenas um\n"
                     + "6) Sair");
 
