@@ -1,4 +1,4 @@
-# Crud cadastro de funcionários 
+# Crud controle de gastos 
 
 - Autor - Emily Yasmin do Nascimento Mendes
 - Curso - Sistemas para Internet
