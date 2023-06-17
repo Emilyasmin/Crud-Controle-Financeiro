@@ -54,7 +54,6 @@ public class Crud {
         try {
             ResultSet tabela = consulta.executeQuery("SELECT * FROM cadastro_funcionarios");
 
-            //String format = "%s -> %6s | %-4.1f | %-5.1f | %-6d | %-6d\n";
 
             String relatorio = "ID\t NOME\t CARGO\t CELULAR\t \n";
 
